@@ -2,10 +2,10 @@
 ##### Version v0.21 date 24-10-2017
 ## Functions
 ### getDateTime()
-> Description : gets the actual date and time, based on the systems clock <br />
-> Input       : none <br />
-> Result      : returns actual year, acttual month, acttual day, actual hour, actual minute and  actual second as integer. <br />
-> Example     : `year, month, day, hour, minute, second = getDateTime()` <br />
+> Thisfunction gets the actual date and time, based on the systems clock <br />
+> Ther are no input variables <br />
+> The function returns the actual year, the actual month, the actual day, the actual hour, the actual minute and the actual second, all as integer values <br />
+> Example to use:  `year, month, day, hour, minute, second = getDateTime()` <br />
 ### def getDowStr()
 > Description : gets the day of the week as a string <br />
 > Input       : year, month, day <br />
