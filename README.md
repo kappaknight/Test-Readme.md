@@ -10,4 +10,4 @@
 > This function gets the day of the week as a string <br />
 > Inputs are the year, the month and the day <br />
 > The function returns the day of the week as a string (Monday ... Sunday)<br />
-> Example to use: "dowStr = getDowStr(year, month, day)" <br />
+> Example to use: `dowStr = getDowStr(year, month, day)` <br />
