@@ -7,7 +7,7 @@
 > Result      : returns actual year, acttual month, acttual day, actual hour, actual minute and  actual second as integer. <br />
 > Example     : year, month, day, hour, minute, second = getDateTime() <br />
 ### def getDowStr()
-> Description : gets the day of the week as a string
-> Input       : year, month, day
-> Result      : returns the day of the week as a string
-> Example     : dowStr = getDowStr(year, month, day)
+> Description : gets the day of the week as a string <br />
+> Input       : year, month, day <br />
+> Result      : returns the day of the week as a string <br />
+> Example     : dowStr = getDowStr(year, month, day) <br />
